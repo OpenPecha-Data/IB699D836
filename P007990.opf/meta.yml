@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN6661
   title: བླ་མ་ལྔ་བཅུ་དང་རྩ་ལྟུང་བཅུ་བཞིའི་རྣམ་བཤད།
-  volume: ''
+  volume:
+    dd374b10cb7e4b499c13b15cae2925fa:
+      image_group_id: I3CN6663
+      title: Volume 1 of bla ma lnga bcu dang rtsa ltung bcu bzhi'i rnam bshad/
+      volume_number: 1
+      total_pages: 400
   author: ''
+ebook_metadata:
+  title: བླ་མ་ལྔ་བཅུ་དང་རྩ་ལྟུང་བཅུ་བཞིའི་རྣམ་བཤད།
+  author: ''
+  sku: P007990
+  cover: cover.jpg
+  layers:
+  - pagination
